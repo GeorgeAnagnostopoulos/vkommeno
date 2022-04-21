@@ -1,0 +1,10 @@
+{
+        "title": "Start",
+        "description": "Kommeno Informationen",
+        "aboutusTitle": "Impressum",
+        "aboutusDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut tortor maximus, varius massa vel, vestibulum libero. Pellentesque convallis eu urna accumsan faucibus. Donec at mattis nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla pharetra tincidunt ipsum. Praesent eu congue justo, a sagittis quam. Duis faucibus ligula vulputate gravida volutpat. Donec mollis, eros eget tincidunt porta, erat nulla porta quam, in vehicula massa est in purus. Praesent sem arcu, aliquam blandit volutpat in, pellentesque a nibh. Sed id placerat lorem. Nam quis ligula sed libero convallis viverra non non ipsum. Fusce ligula nulla, tincidunt a orci eget, facilisis porttitor lorem. Vivamus quis luctus nulla. In tincidunt consequat feugiat. Maecenas egestas placerat mi a malesuada.Nunc vitae tincidunt urna. Sed dictum pellentesque tellus in elementum. Duis mattis dolor vel turpis congue tempor. Praesent ullamcorper mattis tellus. Suspendisse a placerat purus. Cras tincidunt, elit eu sollicitudin luctus, dui mauris rhoncus sem, vel elementum orci erat eu nisi. Cras rhoncus convallis metus id porttitor. Pellentesque metus justo, pretium et placerat et, convallis sed erat. Curabitur blandit aliquet est et malesuada. Suspendisse molestie pulvinar pharetra. Duis sed venenatis dui, sit amet placerat orci. Vestibulum pellentesque eget turpis id elementum.",
+        "subscriptionFormIntro": "Interested in receiving news from us?",
+        "subscriptionFormDescription": "Fill out these form with your full name and email address",
+        "subscriptionFormName": "Name",
+        "subscriptionFormSend": "Subscribe"           
+}
